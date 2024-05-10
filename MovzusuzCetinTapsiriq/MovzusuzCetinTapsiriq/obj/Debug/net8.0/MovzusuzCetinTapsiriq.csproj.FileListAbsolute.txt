@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq\MovzusuzCetinTapsiriq\bin\Debug\net8.0\MovzusuzCetinTapsiriq.exe
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq\MovzusuzCetinTapsiriq\bin\Debug\net8.0\MovzusuzCetinTapsiriq.deps.json
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq\MovzusuzCetinTapsiriq\bin\Debug\net8.0\MovzusuzCetinTapsiriq.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq\MovzusuzCetinTapsiriq\bin\Debug\net8.0\MovzusuzCetinTapsiriq.dll
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq\MovzusuzCetinTapsiriq\bin\Debug\net8.0\MovzusuzCetinTapsiriq.pdb
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq\MovzusuzCetinTapsiriq\obj\Debug\net8.0\MovzusuzCetinTapsiriq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq\MovzusuzCetinTapsiriq\obj\Debug\net8.0\MovzusuzCetinTapsiriq.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq\MovzusuzCetinTapsiriq\obj\Debug\net8.0\MovzusuzCetinTapsiriq.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq\MovzusuzCetinTapsiriq\obj\Debug\net8.0\MovzusuzCetinTapsiriq.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq\MovzusuzCetinTapsiriq\obj\Debug\net8.0\MovzusuzCetinTapsiriq.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq\MovzusuzCetinTapsiriq\obj\Debug\net8.0\MovzusuzCetinTapsiriq.dll
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq\MovzusuzCetinTapsiriq\obj\Debug\net8.0\refint\MovzusuzCetinTapsiriq.dll
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq\MovzusuzCetinTapsiriq\obj\Debug\net8.0\MovzusuzCetinTapsiriq.pdb
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq\MovzusuzCetinTapsiriq\obj\Debug\net8.0\MovzusuzCetinTapsiriq.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan\MovzusuzCetinTapsiriq\MovzusuzCetinTapsiriq\obj\Debug\net8.0\ref\MovzusuzCetinTapsiriq.dll
